@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1745345884 source:c:\users\hong phuc\desktop\gamee\game.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"game.h"
+
+1745345690 c:\users\hong phuc\desktop\gamee\game.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+
+1745403070 c:\users\hong phuc\desktop\gamee\defs.h
+
+1745061435 source:c:\users\hong phuc\desktop\gamee\graphics.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+
+1745343890 c:\users\hong phuc\desktop\gamee\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+
+1745345342 source:c:\users\hong phuc\desktop\gamee\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+	"defs.h"
+	"game.h"
+
+1745061435 source:c:\users\hong phuc\desktop\planeracing\graphics.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+
+1745343890 c:\users\hong phuc\desktop\planeracing\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+
+1746377012 c:\users\hong phuc\desktop\planeracing\defs.h
+
+1746381834 source:c:\users\hong phuc\desktop\planeracing\main.cpp
+	<iostream>
+	<ctime>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+	"defs.h"
+	"game.h"
+
+1746381834 c:\users\hong phuc\desktop\planeracing\game.h
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+	"defs.h"
+
+1746381464 source:c:\users\hong phuc\desktop\planeracing\game.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<cstdlib>
+	<ctime>
+	"game.h"
+
